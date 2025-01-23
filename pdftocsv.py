@@ -2,7 +2,7 @@ from tabula import read_pdf
 import pandas as pd
 
 # File paths
-pdf_path = "/home/scifighost/Downloads/INTERNSHIP GUIDE ALLOCATION 2021-25 (1).pdf"
+pdf_path = "path to pdf"
 output_excel = "output.xlsx"
 
 try:
